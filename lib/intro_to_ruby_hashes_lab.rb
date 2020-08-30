@@ -5,7 +5,9 @@ end
 def my_hash
   beatles_members = {
     drums: "Ringo Starr",
-    guitar: 
+    guitar: "George Harrison",
+    vocals: "John Lennon",
+    bass: "Paul McCartney"
   }
 end
 
